@@ -7,10 +7,12 @@ https://github.com/zhreshold/mxnet-yolo<br>
 # Kurulum:
 ```pip install opencv-python```<br>
 ```img/foto.jpeg``` Resimlerinize Göre Düzenleyin<br>
+https://pjreddie.com/media/files/yolov3.weights Bu Dosyayı İndiriniz<br>
 # Galeri:
 ![resim](img/1.PNG)<br>
 ![resim](img/2.png)<br>
 ![resim](img/3.png)<br>
 ![resim](img/4.png)<br>
+
 # Yapanlar:
 eminnesatgurses
