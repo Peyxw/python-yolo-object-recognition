@@ -8,7 +8,7 @@ https://github.com/zhreshold/mxnet-yolo<br>
 ```pip install opencv-python```<br>
 ```img/foto.jpeg``` Resimlerinize Göre Düzenleyin<br>
 # Galeri:
-![resim](img/1.png)<br>
+![resim](img/1.PNG)<br>
 ![resim](img/2.png)<br>
 ![resim](img/3.png)<br>
 ![resim](img/4.png)<br>
