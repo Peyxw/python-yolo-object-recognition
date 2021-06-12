@@ -15,4 +15,4 @@ https://pjreddie.com/media/files/yolov3.weights Download This File.<br>
 ![resim](img/4.png)<br>
 
 # Owner:
-eminnesatgurses
+Peyxw
